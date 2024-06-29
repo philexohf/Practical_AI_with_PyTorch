@@ -1,0 +1,14 @@
+numpy==1.23.5
+pandas==2.0.3
+pillow==10.2.0
+scikit-image==0.23.2
+scikit-learn== 1.5.0
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
+tqdm==4.66.4
+tensorboard==2.14.1
+opencv-python
+jupyter notebook
+
+# CUDA 11.8
+pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
