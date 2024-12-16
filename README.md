@@ -59,7 +59,10 @@ Practical AI with PyTorch 2024
 
 
 
-​                                                                                                    
+**课程数据集**
+
+链接：https://pan.baidu.com/s/1Zn_w5zJExdwYZMBoz39rPw 
+提取码：2024                                                                                     
 
 ​                                                                                             
 
